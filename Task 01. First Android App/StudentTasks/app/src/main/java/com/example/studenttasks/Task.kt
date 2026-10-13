@@ -1,6 +1,6 @@
 package com.example.studenttasks
 
-enum class Priority {cd C:\Users\User\AndroidStudioProjects\Tasks
+enum class Priority {
     LOW,
     MEDIUM,
     HIGH
