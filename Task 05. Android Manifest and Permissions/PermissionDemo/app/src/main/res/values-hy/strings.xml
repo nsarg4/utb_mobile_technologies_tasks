@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Թույլտվությունների դեմո</string>
+    <string name="title">Ուղարկել SMS և զանգահարել</string>
+    <string name="phone_hint">Հեռախոսահամար</string>
+    <string name="message_hint">Հաղորդագրություն</string>
+    <string name="send_sms">Ուղարկել SMS</string>
+    <string name="make_call">Զանգահարել</string>
+    <string name="sms_permission_error">SMS-ի թույլտվությունը մերժված է</string>
+    <string name="call_permission_error">Զանգի թույլտվությունը մերժված է</string>
+    <string name="empty_phone_error">Խնդրում ենք մուտքագրել հեռախոսահամարը</string>
+</resources>

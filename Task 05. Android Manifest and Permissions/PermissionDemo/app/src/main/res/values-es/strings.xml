@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo de permisos</string>
+    <string name="title">Enviar SMS y llamar</string>
+    <string name="phone_hint">Número de teléfono</string>
+    <string name="message_hint">Mensaje</string>
+    <string name="send_sms">Enviar SMS</string>
+    <string name="make_call">Llamar</string>
+    <string name="sms_permission_error">Permiso de SMS denegado</string>
+    <string name="call_permission_error">Permiso de Llamada denegado</string>
+    <string name="empty_phone_error">Por favor, ingrese un número de teléfono</string>
+</resources>

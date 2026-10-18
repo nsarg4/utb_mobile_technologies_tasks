@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Демо разрешений</string>
+    <string name="title">Отправить SMS и позвонить</string>
+    <string name="phone_hint">Номер телефона</string>
+    <string name="message_hint">Сообщение</string>
+    <string name="send_sms">Отправить SMS</string>
+    <string name="make_call">Позвонить</string>
+    <string name="sms_permission_error">Разрешение на отправку SMS отклонено</string>
+    <string name="call_permission_error">Разрешение на звонок отклонено</string>
+    <string name="empty_phone_error">Пожалуйста, введите номер телефона</string>
+</resources>
