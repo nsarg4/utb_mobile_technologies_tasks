@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Image Location Demo</string>
+    <string name="welcome_title">Find my location</string>
+    <string name="welcome_description">Use your location to explore nearby places.</string>
+    <string name="permission_button">Enable location</string>
+    <string name="permission_rationale">This app needs access to your location to show nearby information.</string>
+    <string name="location_denied">Location access was denied.</string>
+    <string name="location_granted">Location access granted.</string>
+</resources>
